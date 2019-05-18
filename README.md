@@ -1,5 +1,6 @@
 test
 中文
+add 1 line.
 
 test
 hello
